@@ -1,1 +1,6 @@
 build-BinaryGap-Desktop_Qt_5_5_1_MinGW_32bit-Debug/*
+*.o
+*.exe
+*.Debug
+build-OddOccurrencesInArray-Desktop_Qt_5_5_1_MinGW_32bit-Debug/Makefile.Release
+build-OddOccurrencesInArray-Desktop_Qt_5_5_1_MinGW_32bit-Debug/Makefile
